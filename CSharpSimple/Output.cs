@@ -1,12 +1,10 @@
-﻿using static lw.Bool;
-using System.Collections;
-using static lw.Constants;
+﻿using System.Collections;
+using static simple.Constants;
 using System.Text.RegularExpressions;
-using System.Linq;
 
-namespace lw
+namespace simple
 {
-    public static class console
+    public static class Con
     {
         /// <summary>
         ///     Выводит сообщение в консоль
@@ -21,14 +19,14 @@ namespace lw
         }
     }
 
-    public static class Out
+    public static class Output
     {
         /// <summary>
         ///     Выводит строку
         /// </summary>
         /// <param name="arg">Строка</param>
         /// <returns> Всегда возвращает 1 </returns>
-        public static int print(dynamic arg)
+        public static int Print(dynamic arg)
         {
             if (arg is string str && str.Contains('*'))
             {
@@ -54,7 +52,7 @@ namespace lw
         /// </summary>
         /// <param name="arg">Строка</param>
         /// <returns> Ничего не возвращает </returns>
-        public static void echo(params dynamic?[] arg)
+        public static void Echo(params dynamic?[] arg)
         {
             foreach (var item in arg)
             {
@@ -68,7 +66,7 @@ namespace lw
         /// </summary>
         /// <param name="arg">Строка</param>
         /// <returns> Ничего не возвращает </returns>
-        public static void para(params dynamic?[] arg)
+        public static void Para(params dynamic?[] arg)
         {
             Console.Write(CS_EOL);
             foreach (var item in arg)
@@ -85,7 +83,7 @@ namespace lw
         /// <param name="args">Параметры</param>
         /// <returns> Возвращает длину строки </returns>
 
-        public static int printf(string format, params object[] args)
+        public static int Printf(string format, params object[] args)
         {
             string[] placeholderFormats = { "%s", "%d", "%b", "%c", "%f", "%u", "%x", "%+d" };
             int argsIndex = 0;

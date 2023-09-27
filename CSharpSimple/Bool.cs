@@ -1,5 +1,6 @@
 ﻿using System.Collections;
-namespace lw
+
+namespace simple
 {
     public static class Bool
     {

@@ -1,4 +1,4 @@
-﻿namespace lw
+﻿namespace simple
 {
     public static class Constants
     {

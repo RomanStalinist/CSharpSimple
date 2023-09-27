@@ -1,0 +1,12 @@
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\bin\Debug\net7.0\Main.deps.json
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\bin\Debug\net7.0\Main.dll
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\bin\Debug\net7.0\Main.pdb
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\obj\Debug\net7.0\Main.csproj.AssemblyReference.cache
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\obj\Debug\net7.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\obj\Debug\net7.0\Main.AssemblyInfoInputs.cache
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\obj\Debug\net7.0\Main.AssemblyInfo.cs
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\obj\Debug\net7.0\Main.csproj.CoreCompileInputs.cache
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\obj\Debug\net7.0\Main.dll
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\obj\Debug\net7.0\refint\Main.dll
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\obj\Debug\net7.0\Main.pdb
+D:\Мультимедиа файлы\Справочник\Предметы\Кустова\C#\lw\CSharpSimple\obj\Debug\net7.0\ref\Main.dll
